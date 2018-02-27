@@ -3,3 +3,6 @@ F:\Test\xmlComfig\xmlComfig\bin\Debug\xmlComfig.exe
 F:\Test\xmlComfig\xmlComfig\bin\Debug\xmlComfig.pdb
 F:\Test\xmlComfig\xmlComfig\obj\Debug\xmlComfig.exe
 F:\Test\xmlComfig\xmlComfig\obj\Debug\xmlComfig.pdb
+F:\Test\xmlComfig\xmlComfig\bin\Debug\test.dll
+F:\Test\xmlComfig\xmlComfig\bin\Debug\test.pdb
+F:\Test\xmlComfig\xmlComfig\obj\Debug\xmlComfig.csprojResolveAssemblyReference.cache

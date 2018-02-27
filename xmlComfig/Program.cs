@@ -6,6 +6,7 @@ using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using test;
 
 namespace xmlComfig
 {
@@ -13,6 +14,8 @@ namespace xmlComfig
     {
         static void Main(string[] args)
         {
+            Class1 cc=new Class1();
+            cc.Aaa = "gh";
             MailServerConfig mailServerConfig = (MailServerConfig)ConfigurationManager.GetSection("mailServerGroup");
 
             //读取节点值  
