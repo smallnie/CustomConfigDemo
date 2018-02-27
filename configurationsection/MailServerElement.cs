@@ -10,6 +10,9 @@ namespace configurationsection
     public sealed class MailServerElement : ConfigurationElement //配置文件中的配置元素  
     {
 
+
+
+
         /// <summary>  
         /// Gets or sets the client.  
         /// </summary>  

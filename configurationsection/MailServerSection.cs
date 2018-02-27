@@ -13,6 +13,10 @@ namespace configurationsection
     /// <remarks>Editor：v-liuhch CreateTime：2015/6/27 21:41:02</remarks>  
     public class MailServerSection : ConfigurationSection   //继承配置文件中节  
     {
+
+
+
+
         /// <summary>  
         /// Gets the provider.：映射mailServerGroup节点的provider  
         /// </summary>  

@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace configurationsection
 {
+
+
+
+
     /// <summary>  
     /// Class MailServerCollection:映射mailServers节点，为一个集合类，另外还包含了很多对节点的操作方法，大部分继承自ConfigurationElementCollection  
     /// </summary>  
