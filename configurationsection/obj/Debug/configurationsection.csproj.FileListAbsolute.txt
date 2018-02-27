@@ -1,0 +1,5 @@
+F:\Test\xmlComfig\configurationsection\bin\Debug\configurationsection.exe.config
+F:\Test\xmlComfig\configurationsection\bin\Debug\configurationsection.exe
+F:\Test\xmlComfig\configurationsection\bin\Debug\configurationsection.pdb
+F:\Test\xmlComfig\configurationsection\obj\Debug\configurationsection.exe
+F:\Test\xmlComfig\configurationsection\obj\Debug\configurationsection.pdb
