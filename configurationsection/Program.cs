@@ -22,7 +22,6 @@ namespace configurationsection
         /// <remarks>Editor：v-liuhch CreateTime：2015/6/27 23:04:53</remarks>  
         private static void Test()
         {
-            Console.WriteLine("fffffffffffffffff");
             MailServerSection mailSection = (MailServerSection)ConfigurationManager.GetSection("mailServerGroup");
             Console.WriteLine("MailServerSection 的provider属性值：" + mailSection.provider);
             foreach (MailServerElement config in mailSection.MailServers)
