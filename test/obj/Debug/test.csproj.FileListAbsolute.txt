@@ -1,4 +1,0 @@
-F:\Test\xmlComfig\test\bin\Debug\test.dll
-F:\Test\xmlComfig\test\bin\Debug\test.pdb
-F:\Test\xmlComfig\test\obj\Debug\test.dll
-F:\Test\xmlComfig\test\obj\Debug\test.pdb
